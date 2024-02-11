@@ -10,7 +10,6 @@
 - View all the existing tasks
 - Update a task
 - Delete a task
-- Search for a particular task by title
 
 ## Languages, Libraries and Tools used
 
